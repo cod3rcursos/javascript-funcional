@@ -1,0 +1,17 @@
+{
+  "name": "curso_js_funcional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "rxjs": "^6.5.5",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

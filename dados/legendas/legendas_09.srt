@@ -1,0 +1,2880 @@
+1
+00:00:00,781 --> 00:00:01,986
+Sir, you wanted to see me?
+
+2
+00:00:02,022 --> 00:00:03,328
+Yes, I have an assignment for you.
+
+3
+00:00:03,554 --> 00:00:04,721
+I'm afraid it's not a pleasant one.
+
+4
+00:00:04,757 --> 00:00:06,605
+Oh, my God. Please tell me it's not...
+
+5
+00:00:06,640 --> 00:00:09,041
+Yes, it's Hitchcock related.
+
+6
+00:00:09,076 --> 00:00:10,375
+Son of a bitch.
+
+7
+00:00:10,410 --> 00:00:12,077
+Detective Hitchcock is set to testify
+
+8
+00:00:12,112 --> 00:00:13,285
+in court this afternoon.
+
+9
+00:00:13,321 --> 00:00:14,479
+It's an important case,
+
+10
+00:00:14,514 --> 00:00:16,348
+and I'd rather not get
+another call from the DA
+
+11
+00:00:16,383 --> 00:00:19,423
+saying he showed up
+"covered in condiments."
+
+12
+00:00:19,459 --> 00:00:20,999
+So you want me to keep Hitchcock
+
+13
+00:00:21,035 --> 00:00:23,313
+from spilling on himself
+for the rest of the day?
+
+14
+00:00:23,349 --> 00:00:24,759
+We both know that's impossible.
+
+15
+00:00:24,795 --> 00:00:26,284
+- I'm counting on you.
+- I won't do it.
+
+16
+00:00:26,320 --> 00:00:28,784
+- There's nobody else I trust.
+- What you're asking is insane.
+
+17
+00:00:28,820 --> 00:00:31,279
+- I'm not asking.
+- It's a suicide mission!
+
+18
+00:00:31,315 --> 00:00:33,179
+- Then prepare for death.
+- You've lost your mind!
+
+19
+00:00:33,215 --> 00:00:35,582
+This is a direct order, Detective!
+Get in line!
+
+20
+00:00:35,618 --> 00:00:37,508
+Hey. You guys startled Hitchcock.
+
+21
+00:00:37,544 --> 00:00:39,972
+He spilled two full jars
+of spaghetti sauce on himself.
+
+22
+00:00:40,348 --> 00:00:41,814
+Thanks a lot, fellas.
+
+23
+00:00:56,550 --> 00:01:00,550
+<font color="#741b47">Sync & corrections by </font><font color="#ead1dc">emeline-whovian</font>
+<font color="#741b47">www.addic7ed.com</font>
+
+24
+00:01:02,605 --> 00:01:04,343
+Ames, super important question.
+
+25
+00:01:04,379 --> 00:01:05,946
+Which one of these shirts
+should I wear to dinner
+
+26
+00:01:05,981 --> 00:01:07,728
+- with your mom tonight?
+- Those are exactly the same.
+
+27
+00:01:07,764 --> 00:01:09,263
+I have a signature look, Rosa.
+
+28
+00:01:09,299 --> 00:01:10,948
+Put on a T-shirt for all I care.
+
+29
+00:01:11,102 --> 00:01:12,235
+It doesn't matter what you wear.
+
+30
+00:01:12,270 --> 00:01:13,503
+Of course it matters.
+
+31
+00:01:13,538 --> 00:01:15,005
+He has to wear the smaller checks.
+
+32
+00:01:15,040 --> 00:01:17,607
+Big checks wash him out.
+Where are you, Amy?
+
+33
+00:01:17,642 --> 00:01:20,010
+It doesn't matter, because
+the night is already ruined.
+
+34
+00:01:20,045 --> 00:01:21,311
+My stupid mother invited
+
+35
+00:01:21,346 --> 00:01:23,179
+my stupid brother David to join us.
+
+36
+00:01:23,214 --> 00:01:24,247
+I thought you liked your brothers.
+
+37
+00:01:24,282 --> 00:01:25,581
+I have seven brothers, Rosa,
+
+38
+00:01:25,616 --> 00:01:27,617
+and I like all of them except David.
+
+39
+00:01:27,652 --> 00:01:28,908
+Perfect David.
+
+40
+00:01:28,944 --> 00:01:30,202
+David graduated at the top of his class
+
+41
+00:01:30,238 --> 00:01:31,538
+at the police academy.
+
+42
+00:01:31,573 --> 00:01:32,872
+David took a bullet for the mayor.
+
+43
+00:01:32,907 --> 00:01:34,373
+David bakes his own bread.
+
+44
+00:01:34,408 --> 00:01:36,275
+Ooh, and does this David have a sister?
+
+45
+00:01:36,310 --> 00:01:38,859
+- Yes. Amy is his sister.
+- And what's her deal?
+
+46
+00:01:38,895 --> 00:01:40,161
+You were at the wedding, Hitchcock.
+
+47
+00:01:40,196 --> 00:01:41,796
+I'm just gonna call and cancel.
+
+48
+00:01:41,831 --> 00:01:42,964
+I really don't want
+to have dinner with my mom
+
+49
+00:01:42,999 --> 00:01:44,585
+fawning all over the golden boy.
+
+50
+00:01:44,621 --> 00:01:45,975
+I'm sure your mom
+loves you both equally.
+
+51
+00:01:46,011 --> 00:01:47,092
+No, she definitely doesn't.
+
+52
+00:01:47,128 --> 00:01:48,775
+My parents arrange
+the photos of their kids
+
+53
+00:01:48,811 --> 00:01:50,038
+by who makes them the proudest.
+
+54
+00:01:50,073 --> 00:01:51,940
+Number one goes on the mantel
+above the fireplace,
+
+55
+00:01:51,975 --> 00:01:53,474
+two through four on the piano,
+and the rest
+
+56
+00:01:53,509 --> 00:01:55,076
+- are on the staircase.
+- This is wack.
+
+57
+00:01:55,111 --> 00:01:56,711
+- So David's on the mantel?
+- Always.
+
+58
+00:01:56,746 --> 00:01:58,766
+Meanwhile, my picture
+gathers dust on the piano.
+
+59
+00:01:58,802 --> 00:02:01,514
+- The piano's not that bad.
+- Nobody in the family even plays, Rosa.
+
+60
+00:02:01,550 --> 00:02:02,884
+At least people use the stairs.
+
+61
+00:02:02,919 --> 00:02:04,853
+All right, David is perfect,
+but so are you.
+
+62
+00:02:04,888 --> 00:02:06,654
+Let's just go tonight,
+and I'll be your hype man.
+
+63
+00:02:06,689 --> 00:02:08,456
+You know how good I am
+at talking you up.
+
+64
+00:02:08,491 --> 00:02:09,690
+Here, watch. Hey, Scully.
+
+65
+00:02:09,725 --> 00:02:12,060
+Did you know that Amy is super cool?
+
+66
+00:02:12,095 --> 00:02:14,528
+No way. Can I get your autograph, ma'am?
+
+67
+00:02:14,563 --> 00:02:16,264
+- See?
+- Fine, we'll go.
+
+68
+00:02:16,590 --> 00:02:18,198
+What, too stuck up for your fans?
+
+69
+00:02:18,233 --> 00:02:19,644
+Ya friggin' turd!
+
+70
+00:02:20,042 --> 00:02:21,268
+Hey, Captain, Sarge,
+
+71
+00:02:21,303 --> 00:02:22,636
+I have a case I want to discuss
+with you.
+
+72
+00:02:22,671 --> 00:02:25,045
+You want to talk about work
+in the break room?
+
+73
+00:02:25,081 --> 00:02:27,123
+That's highly unorthodox, but
+I suppose we can give it a try.
+
+74
+00:02:27,159 --> 00:02:29,026
+Okay, so I have a perp...
+
+75
+00:02:29,061 --> 00:02:31,061
+I'm sorry, this is insane.
+Let's talk in my office.
+
+76
+00:02:31,096 --> 00:02:32,833
+Much better. All right, Boyle,
+
+77
+00:02:32,869 --> 00:02:34,197
+what's this case
+you wanted to talk about?
+
+78
+00:02:34,233 --> 00:02:36,066
+I have a perp, Alfonso Tucker,
+
+79
+00:02:36,101 --> 00:02:37,500
+transferring into our holding cell.
+
+80
+00:02:37,535 --> 00:02:39,901
+The guy who was dealing
+that toxic batch of meth?
+
+81
+00:02:39,937 --> 00:02:41,904
+Yeah, and he refuses
+to name his supplier.
+
+82
+00:02:41,940 --> 00:02:43,248
+I want to send someone into holding,
+
+83
+00:02:43,284 --> 00:02:45,777
+undercover as a perp, to see
+if they can get him to open up.
+
+84
+00:02:45,813 --> 00:02:46,976
+Why don't you do it?
+
+85
+00:02:47,011 --> 00:02:48,745
+You're always going on
+about your acting abilities
+
+86
+00:02:48,780 --> 00:02:50,276
+and that time you played Annie.
+
+87
+00:02:50,682 --> 00:02:53,350
+I'm an adult man, Sarge.
+I didn't play Annie.
+
+88
+00:02:53,385 --> 00:02:56,142
+I was in "Annie."
+I played Miss Hannigan.
+
+89
+00:02:56,517 --> 00:02:58,754
+Unfortunately, Alfonso knows I'm a cop,
+
+90
+00:02:58,789 --> 00:03:02,058
+so I can't be Maxwell Blaze.
+
+91
+00:03:02,093 --> 00:03:04,093
+But Terry might be right for the role.
+
+92
+00:03:04,128 --> 00:03:05,561
+Ooh, that sounds fun.
+
+93
+00:03:05,596 --> 00:03:08,245
+I love flexing my creative muscles.
+
+94
+00:03:08,281 --> 00:03:10,482
+In addition to flexing
+my actual muscles.
+
+95
+00:03:10,517 --> 00:03:13,516
+- Or I could do it.
+- What? You hate theater.
+
+96
+00:03:13,552 --> 00:03:16,024
+You always say acting
+is just professional lying.
+
+97
+00:03:16,060 --> 00:03:17,822
+Yes, but this is
+what the mission calls for,
+
+98
+00:03:17,858 --> 00:03:19,490
+and I'm good at it.
+
+99
+00:03:19,526 --> 00:03:20,909
+Kevin and I went to a dinner party
+
+100
+00:03:20,944 --> 00:03:24,107
+where we played the French
+parlor game "charades."
+
+101
+00:03:24,280 --> 00:03:25,781
+I had to act out Elvis Presley.
+
+102
+00:03:28,440 --> 00:03:31,183
+He's dead now,
+so I portrayed him as such.
+
+103
+00:03:31,219 --> 00:03:32,418
+Everyone understood...
+
+104
+00:03:32,454 --> 00:03:33,553
+Immediately.
+
+105
+00:03:33,589 --> 00:03:34,856
+You know, a little competition
+
+106
+00:03:34,891 --> 00:03:36,324
+might bring out the best in both of you.
+
+107
+00:03:36,359 --> 00:03:37,993
+We'll hold auditions this afternoon.
+
+108
+00:03:38,028 --> 00:03:39,270
+I'll prepare sides.
+
+109
+00:03:40,295 --> 00:03:41,626
+Please wear clothes you can move in.
+
+110
+00:03:42,490 --> 00:03:45,165
+Okay, let's get to the table
+before David gets here.
+
+111
+00:03:45,200 --> 00:03:46,932
+My mother loves an early bird.
+
+112
+00:03:46,968 --> 00:03:48,535
+Hey, babe, before we go in,
+
+113
+00:03:48,570 --> 00:03:50,604
+I know I said I was gonna do
+the whole hype man thing, but...
+
+114
+00:03:50,639 --> 00:03:51,615
+I know.
+
+115
+00:03:51,807 --> 00:03:53,840
+I shouldn't compare myself
+to my brother.
+
+116
+00:03:53,875 --> 00:03:55,074
+We're all on our own journey.
+
+117
+00:03:55,109 --> 00:03:56,543
+What? No. Who told you that garbage?
+
+118
+00:03:56,578 --> 00:03:57,711
+I was gonna say, we need a backup plan
+
+119
+00:03:57,746 --> 00:03:59,045
+so you can win this thing.
+
+120
+00:03:59,080 --> 00:04:00,480
+If it starts slipping away,
+I'll pretend to choke,
+
+121
+00:04:00,515 --> 00:04:01,681
+and then you give me the Heimlich
+
+122
+00:04:01,716 --> 00:04:03,349
+and save my life in front of everyone.
+
+123
+00:04:03,384 --> 00:04:05,719
+Aw, thanks for not trying
+to make me a better person.
+
+124
+00:04:05,839 --> 00:04:07,338
+- I love you.
+- Love you too.
+
+125
+00:04:07,374 --> 00:04:09,241
+Amy, Jake!
+
+126
+00:04:10,507 --> 00:04:12,926
+David and I both arrived an hour early.
+
+127
+00:04:12,961 --> 00:04:14,430
+We're sharing a French onion.
+
+128
+00:04:15,022 --> 00:04:16,255
+Mother...
+
+129
+00:04:16,493 --> 00:04:18,180
+So she's about to jump, and I say,
+
+130
+00:04:18,216 --> 00:04:20,550
+"Hey, I can't tell you
+this world is a good place,
+
+131
+00:04:20,585 --> 00:04:23,041
+but I guarantee you
+it's better with you in it."
+
+132
+00:04:23,077 --> 00:04:24,509
+And she climbs down off the ledge,
+
+133
+00:04:24,545 --> 00:04:25,953
+- and she gives me a big hug.
+- Ugh.
+
+134
+00:04:25,989 --> 00:04:27,489
+And that was before she won the Oscar?
+
+135
+00:04:27,524 --> 00:04:29,091
+I don't know, I don't
+really follow pop culture.
+
+136
+00:04:29,126 --> 00:04:31,293
+You never cease to impress me, David.
+
+137
+00:04:31,328 --> 00:04:32,695
+Hey, speaking of impressive,
+
+138
+00:04:32,730 --> 00:04:34,262
+Amy just went to the NYPD shooting range
+
+139
+00:04:34,297 --> 00:04:36,622
+and received a gold
+certification in marksmanship.
+
+140
+00:04:36,658 --> 00:04:38,300
+Oh, I just got
+the platinum certification.
+
+141
+00:04:38,335 --> 00:04:40,936
+What? That exists? What did you do,
+curve the bullets, "Wanted"-style?
+
+142
+00:04:40,971 --> 00:04:43,338
+Yeah, I don't know what "Wanted" is.
+I don't follow pop culture.
+
+143
+00:04:43,373 --> 00:04:45,607
+But I fired ten shots, and they
+all went into the same hole.
+
+144
+00:04:45,642 --> 00:04:47,342
+Oh, so you actually did.
+
+145
+00:04:47,377 --> 00:04:49,040
+Hey, Camila, did you know that Amy
+
+146
+00:04:49,076 --> 00:04:50,409
+is the youngest female sergeant
+
+147
+00:04:50,445 --> 00:04:51,644
+in the history of the Nine-Nine?
+
+148
+00:04:51,680 --> 00:04:53,314
+Yes, I'm very proud of her.
+
+149
+00:04:53,350 --> 00:04:54,682
+I'm proud of all my children.
+
+150
+00:04:54,717 --> 00:04:56,251
+The sergeant and the lieutenant.
+
+151
+00:04:56,738 --> 00:04:58,786
+What? You passed the lieutenant's exam?
+
+152
+00:04:58,821 --> 00:05:00,803
+It actually wasn't something
+I was planning on taking,
+
+153
+00:05:00,839 --> 00:05:02,838
+but then my partner got sick
+and I wanted to be able
+
+154
+00:05:02,874 --> 00:05:04,340
+to send home extra money
+to his wife and kids.
+
+155
+00:05:04,376 --> 00:05:07,077
+Then I read the MRI.
+He was totally misdiagnosed.
+
+156
+00:05:07,113 --> 00:05:09,213
+So long story short, Bo is alive,
+
+157
+00:05:09,248 --> 00:05:11,315
+and I got a perfect score
+on the test for no reason.
+
+158
+00:05:11,350 --> 00:05:12,251
+Oh, man.
+
+159
+00:05:12,287 --> 00:05:14,317
+Hey, check out these dinner rolls, huh?
+
+160
+00:05:14,353 --> 00:05:15,645
+Love these bad boys.
+
+161
+00:05:15,681 --> 00:05:17,040
+I'm just gonna chomp down on that,
+
+162
+00:05:17,172 --> 00:05:18,271
+recklessly.
+
+163
+00:05:20,359 --> 00:05:22,733
+Oh! Oh, no, Jake! He's choking!
+
+164
+00:05:22,769 --> 00:05:24,477
+Let David do it. He has EMT training.
+
+165
+00:05:24,513 --> 00:05:26,580
+- I'm here for you, Jake.
+- I'm gonna go to the bathroom.
+
+166
+00:05:26,615 --> 00:05:27,981
+You know what...
+
+167
+00:05:28,016 --> 00:05:29,383
+Don't worry. It is gonna hurt like hell.
+
+168
+00:05:29,418 --> 00:05:30,839
+I think it's actually okay.
+
+169
+00:05:32,706 --> 00:05:35,422
+Thank you both so much for coming in.
+
+170
+00:05:35,457 --> 00:05:37,189
+This is a safe space
+
+171
+00:05:37,459 --> 00:05:39,436
+where choices are welcome.
+
+172
+00:05:39,762 --> 00:05:40,861
+Okay, now, I trust that both of you
+
+173
+00:05:40,896 --> 00:05:42,463
+had a chance to review the script?
+
+174
+00:05:42,498 --> 00:05:44,570
+- Yeah.
+- Good. Now throw them away!
+
+175
+00:05:44,606 --> 00:05:46,815
+What the hell?
+I wrote notes in the margin.
+
+176
+00:05:46,851 --> 00:05:48,283
+Terry found his super-objective.
+
+177
+00:05:48,319 --> 00:05:51,721
+I want to see you improvise
+without the safety net.
+
+178
+00:05:51,756 --> 00:05:54,657
+I want to see you become Maxwell Blaze.
+
+179
+00:05:55,196 --> 00:05:58,060
+So, Maxwell, what was
+your childhood like?
+
+180
+00:05:58,095 --> 00:05:59,541
+I was a lookout at 8,
+
+181
+00:06:00,064 --> 00:06:01,196
+had my own corner at 10,
+
+182
+00:06:01,231 --> 00:06:02,732
+trigger man at 13.
+
+183
+00:06:02,767 --> 00:06:05,768
+You know what it's like
+to look a man in his eyes
+
+184
+00:06:05,803 --> 00:06:07,402
+as the life drains out of him?
+
+185
+00:06:07,636 --> 00:06:09,503
+I was bad from a young age.
+
+186
+00:06:09,539 --> 00:06:11,140
+At school, I pushed people.
+
+187
+00:06:11,175 --> 00:06:14,810
+And this wasn't horseplay.
+This was pushing to hurt.
+
+188
+00:06:14,845 --> 00:06:16,345
+Do you have a girlfriend at home?
+
+189
+00:06:16,380 --> 00:06:18,314
+Used to. She got tired
+of me getting locked up.
+
+190
+00:06:18,349 --> 00:06:19,962
+She's with my brother now.
+
+191
+00:06:19,998 --> 00:06:22,200
+He better hope I never find his ass.
+
+192
+00:06:22,236 --> 00:06:25,370
+I do, and you should see her heavy,
+
+193
+00:06:25,405 --> 00:06:26,805
+feminine breasts,
+
+194
+00:06:26,840 --> 00:06:28,440
+with their perfectly placed nipples.
+
+195
+00:06:28,475 --> 00:06:30,075
+Don't get me started on her can.
+
+196
+00:06:30,110 --> 00:06:32,610
+- What's your greatest fear?
+- I ain't scared of nothing.
+
+197
+00:06:32,645 --> 00:06:34,378
+My girlfriend.
+I'm scared she'll find out
+
+198
+00:06:34,413 --> 00:06:35,776
+about my mistress,
+
+199
+00:06:36,148 --> 00:06:38,349
+who also has a perfect can.
+
+200
+00:06:38,683 --> 00:06:41,017
+It's smaller, but it's harder.
+
+201
+00:06:41,053 --> 00:06:42,086
+Great.
+
+202
+00:06:42,921 --> 00:06:44,522
+You both have given me
+something totally different.
+
+203
+00:06:44,557 --> 00:06:46,692
+I've got a lot to think about.
+
+204
+00:06:47,290 --> 00:06:48,990
+Thank you. Next!
+
+205
+00:06:49,026 --> 00:06:51,229
+What up, dawgs?
+
+206
+00:06:51,714 --> 00:06:53,847
+Norm Scully, reading for Maxwell Blaze.
+
+207
+00:06:53,882 --> 00:06:56,717
+Listen, I just did what anyone would do.
+
+208
+00:06:57,202 --> 00:06:58,868
+Hey, where'd you go?
+
+209
+00:06:58,903 --> 00:07:01,037
+I just couldn't stand there
+while the whole restaurant
+
+210
+00:07:01,072 --> 00:07:02,739
+gushed over David saving your life.
+
+211
+00:07:02,774 --> 00:07:04,141
+Yeah, there was a standing ovation.
+
+212
+00:07:04,176 --> 00:07:06,676
+Also, everyone saw you
+walk away while I was choking,
+
+213
+00:07:06,711 --> 00:07:07,977
+and I don't want to say
+you're a villain now,
+
+214
+00:07:08,012 --> 00:07:10,247
+but the B-word was tossed around a lot.
+
+215
+00:07:10,282 --> 00:07:11,814
+Ugh. I'm sorry.
+
+216
+00:07:11,849 --> 00:07:13,250
+I just can't be around him.
+
+217
+00:07:13,285 --> 00:07:14,951
+- I shouldn't have come.
+- So let's leave.
+
+218
+00:07:14,986 --> 00:07:16,886
+I'll tell everyone my stomach
+hurts, which it does.
+
+219
+00:07:16,921 --> 00:07:18,821
+I'm pretty sure he broke my rib
+when he gave me the Heimlich.
+
+220
+00:07:18,856 --> 00:07:20,199
+Lieutenant Santiago, a word?
+
+221
+00:07:20,558 --> 00:07:22,589
+Why is David's captain here?
+
+222
+00:07:23,487 --> 00:07:25,611
+What's going on?
+Is there a maniac on the loose,
+
+223
+00:07:25,647 --> 00:07:26,947
+and David's the only one
+who can catch him
+
+224
+00:07:26,983 --> 00:07:28,216
+before he blows up a train?
+
+225
+00:07:28,252 --> 00:07:29,785
+Oh, we could call him the Trainiac.
+
+226
+00:07:30,017 --> 00:07:31,517
+We're focused on the same things.
+
+227
+00:07:31,552 --> 00:07:33,419
+Sorry, folks, we've
+discovered a large quantity
+
+228
+00:07:33,454 --> 00:07:36,021
+of cocaine in Lieutenant
+Santiago's desk.
+
+229
+00:07:36,056 --> 00:07:37,616
+We've had to place him under arrest.
+
+230
+00:07:38,325 --> 00:07:43,595
+Oh, no.
+
+231
+00:07:44,510 --> 00:07:46,483
+Of course. We'll head over soon.
+
+232
+00:07:46,667 --> 00:07:48,123
+So that was my brother.
+
+233
+00:07:48,159 --> 00:07:50,815
+He needs me to bail him out of jail.
+
+234
+00:07:51,248 --> 00:07:52,916
+I feel so awful for him.
+
+235
+00:07:52,952 --> 00:07:54,251
+You are smiling so much.
+
+236
+00:07:54,287 --> 00:07:56,487
+No, no, I promise. I feel so, so, bad.
+
+237
+00:07:56,522 --> 00:07:57,376
+Rosa D!
+
+238
+00:07:57,412 --> 00:07:58,889
+- Deezer, what up?
+- Deezer?
+
+239
+00:07:58,924 --> 00:08:00,824
+Hey, Scully, did you do
+something new with your hair?
+
+240
+00:08:00,859 --> 00:08:02,493
+Same thing as always: put mousse in it
+
+241
+00:08:02,528 --> 00:08:04,395
+while it's wet,
+then I watch a scary movie.
+
+242
+00:08:04,430 --> 00:08:06,597
+- You the man.
+- What is wrong with her?
+
+243
+00:08:06,632 --> 00:08:08,332
+Her brother David got arrested.
+
+244
+00:08:08,367 --> 00:08:10,334
+- He's a cokehead!
+- And you're happy about this?
+
+245
+00:08:10,495 --> 00:08:11,852
+That's savage. I love it.
+
+246
+00:08:11,888 --> 00:08:13,518
+- I'm not happy about it!
+- All right.
+
+247
+00:08:13,554 --> 00:08:14,854
+Calm down, Littlefinger.
+
+248
+00:08:14,890 --> 00:08:16,174
+He's in a lot of trouble, you know.
+
+249
+00:08:16,209 --> 00:08:17,808
+Yeah, yeah, you're right. You're right.
+
+250
+00:08:17,843 --> 00:08:19,610
+It's a terrible situation.
+
+251
+00:08:19,645 --> 00:08:21,446
+- Let's go bail him out.
+- All right.
+
+252
+00:08:21,481 --> 00:08:23,614
+Ooh, should I get my hair
+blown out first?
+
+253
+00:08:23,649 --> 00:08:26,173
+I'm gonna have pictures from
+today for the rest of my life.
+
+254
+00:08:26,719 --> 00:08:29,252
+Are you... a bad person?
+
+255
+00:08:30,071 --> 00:08:31,489
+Casting's up!
+
+256
+00:08:31,524 --> 00:08:33,123
+This is not a high school play, Boyle.
+
+257
+00:08:33,158 --> 00:08:34,124
+Just let us know who you went with.
+
+258
+00:08:34,159 --> 00:08:35,158
+Okay, first of all,
+
+259
+00:08:35,193 --> 00:08:36,760
+I want to say that this was
+
+260
+00:08:36,795 --> 00:08:38,829
+one of the hardest decisions
+I've ever had to make.
+
+261
+00:08:38,864 --> 00:08:40,931
+There is so much talent in this room.
+
+262
+00:08:40,966 --> 00:08:42,142
+Just tell us, bitch.
+
+263
+00:08:42,467 --> 00:08:43,701
+Act as if you already have the role.
+
+264
+00:08:43,736 --> 00:08:46,036
+I could have cast any one of you
+
+265
+00:08:46,071 --> 00:08:47,652
+and put on a great show,
+
+266
+00:08:47,906 --> 00:08:49,039
+but I had to make a call.
+
+267
+00:08:49,074 --> 00:08:50,808
+Enough, Boyle. We're all adults.
+
+268
+00:08:50,843 --> 00:08:52,610
+No one cares about this that much.
+
+269
+00:08:52,645 --> 00:08:54,144
+- It's Captain Holt.
+- Captain Holt?
+
+270
+00:08:54,179 --> 00:08:55,479
+He was the worst one!
+
+271
+00:08:55,514 --> 00:08:58,215
+No offense, but Holt
+was so unconvincing.
+
+272
+00:08:58,250 --> 00:08:59,617
+He kept referring to his childhood
+
+273
+00:08:59,652 --> 00:09:01,351
+as a soot-covered street urchin.
+
+274
+00:09:01,386 --> 00:09:04,154
+Yes, I gave myself
+a Dickensian backstory,
+
+275
+00:09:04,189 --> 00:09:06,760
+which apparently
+made quite the impression.
+
+276
+00:09:06,796 --> 00:09:07,958
+I'm sorry, Sarge.
+
+277
+00:09:07,993 --> 00:09:10,893
+Honestly, I don't think
+I'm the right director
+
+278
+00:09:10,928 --> 00:09:14,030
+to bring your vision
+of Maxwell Blaze to life.
+
+279
+00:09:14,065 --> 00:09:15,465
+What does that even mean?
+
+280
+00:09:15,500 --> 00:09:16,733
+It means you blew it.
+
+281
+00:09:16,768 --> 00:09:18,989
+Walk away, Jeffords. Walk away.
+
+282
+00:09:19,963 --> 00:09:22,239
+Okay, this is gonna be my mantel shot.
+
+283
+00:09:22,274 --> 00:09:23,640
+So every time Mom and Dad look at it,
+
+284
+00:09:23,675 --> 00:09:25,175
+they'll be reminded of what David did.
+
+285
+00:09:25,210 --> 00:09:26,843
+I would say you should chill out,
+
+286
+00:09:26,878 --> 00:09:28,178
+but this is actually
+making me feel great
+
+287
+00:09:28,213 --> 00:09:29,912
+about my family, so let's dive in.
+
+288
+00:09:29,947 --> 00:09:32,915
+Everybody say "possession
+with intent to distribute"!
+
+289
+00:09:33,182 --> 00:09:34,151
+Hey.
+
+290
+00:09:34,186 --> 00:09:35,908
+- Oh!
+- Ah, David, hi there.
+
+291
+00:09:35,944 --> 00:09:37,354
+That was unrelated to your recent arrest
+
+292
+00:09:37,389 --> 00:09:38,721
+for possession
+with intent to distribute.
+
+293
+00:09:38,756 --> 00:09:40,257
+- How are you?
+- Not great.
+
+294
+00:09:40,292 --> 00:09:41,691
+Yeah, jail is rough.
+
+295
+00:09:41,726 --> 00:09:43,160
+You got to go poop in front of everyone.
+
+296
+00:09:43,195 --> 00:09:44,694
+I remember when I was in prison,
+
+297
+00:09:44,729 --> 00:09:46,228
+I held it for weeks,
+and when I finally did go,
+
+298
+00:09:46,263 --> 00:09:47,563
+it was...
+
+299
+00:09:47,598 --> 00:09:49,365
+You know what, Jake?
+This isn't about you.
+
+300
+00:09:49,400 --> 00:09:51,267
+So, David, did you get fired,
+
+301
+00:09:51,302 --> 00:09:53,035
+or is there gonna be, like, a hearing?
+
+302
+00:09:53,070 --> 00:09:55,337
+She's asking so she can
+be there to support you.
+
+303
+00:09:55,372 --> 00:09:56,605
+Oh, yeah, I wouldn't miss it.
+
+304
+00:09:56,640 --> 00:09:58,507
+- I'm so excited.
+- To support you.
+
+305
+00:09:58,542 --> 00:09:59,775
+That's what I said.
+I'm really looking forward
+
+306
+00:09:59,810 --> 00:10:01,459
+- to being there.
+- To support you.
+
+307
+00:10:01,495 --> 00:10:02,961
+Yeah, we're saying the same thing.
+
+308
+00:10:02,996 --> 00:10:04,676
+- I am pumped this is happening.
+- All right, babe,
+
+309
+00:10:04,715 --> 00:10:06,182
+maybe your brother doesn't want
+to talk about what happened.
+
+310
+00:10:06,217 --> 00:10:07,249
+- Let's just go.
+- It's okay.
+
+311
+00:10:07,284 --> 00:10:08,884
+I owe you guys an explanation.
+
+312
+00:10:09,468 --> 00:10:11,787
+I actually started doing drugs
+when I was a teenager.
+
+313
+00:10:11,822 --> 00:10:14,338
+You know how Mom and Dad
+put so much pressure on us?
+
+314
+00:10:14,825 --> 00:10:16,592
+Eventually I just kind of cracked.
+
+315
+00:10:16,627 --> 00:10:18,561
+Wait, you felt pressure?
+
+316
+00:10:18,596 --> 00:10:20,596
+You always seemed to effortlessly thrive
+
+317
+00:10:20,631 --> 00:10:23,291
+at everything. I was so jealous.
+
+318
+00:10:23,327 --> 00:10:24,871
+But knowing that you also felt
+the pressure...
+
+319
+00:10:24,907 --> 00:10:27,069
+All right, we can drop the act.
+I just didn't know who was listening.
+
+320
+00:10:27,104 --> 00:10:28,570
+- What act, now?
+- Everything I've said before
+
+321
+00:10:28,605 --> 00:10:30,120
+just now is a lie. I'm being framed.
+
+322
+00:10:30,156 --> 00:10:31,890
+I've been investigating these dirty cops
+
+323
+00:10:31,925 --> 00:10:33,691
+who are being paid off
+by the Brazilian mob.
+
+324
+00:10:33,726 --> 00:10:35,894
+Oh, Brazilian mobsters
+are so good-looking.
+
+325
+00:10:35,929 --> 00:10:37,963
+They're just a bunch of Giseles,
+the women and the men.
+
+326
+00:10:37,998 --> 00:10:39,731
+Yes, it's insane. They're all gorgeous.
+
+327
+00:10:39,766 --> 00:10:41,399
+Anyway, I think I got too close.
+
+328
+00:10:41,434 --> 00:10:43,869
+Those dirty cops must have
+planted the drugs in my desk.
+
+329
+00:10:43,904 --> 00:10:46,537
+So what you're saying is,
+you're not addicted to cocaine?
+
+330
+00:10:46,572 --> 00:10:48,874
+Amy, it's me. I don't even drink coffee.
+
+331
+00:10:48,909 --> 00:10:50,075
+I have too much respect for my body.
+
+332
+00:10:50,110 --> 00:10:51,209
+This is water.
+
+333
+00:10:51,244 --> 00:10:52,744
+And you didn't feel pressure
+
+334
+00:10:52,779 --> 00:10:54,645
+- from Mom and Dad?
+- No, they're so supportive.
+
+335
+00:10:54,680 --> 00:10:56,915
+I'd actually love
+some constructive criticism.
+
+336
+00:10:56,950 --> 00:10:58,483
+It's the only way to grow.
+
+337
+00:10:58,518 --> 00:11:00,385
+Anyway, thank you so much
+for bailing me out.
+
+338
+00:11:00,420 --> 00:11:02,587
+If you can just drop me off
+at home, I will clear my name,
+
+339
+00:11:02,622 --> 00:11:03,951
+and things can go back
+to the way they were.
+
+340
+00:11:03,987 --> 00:11:05,456
+The way they were. Great.
+
+341
+00:11:05,491 --> 00:11:07,286
+It's my favorite way of things being.
+
+342
+00:11:08,467 --> 00:11:11,128
+Okay, Alfonso, I hope
+you like it here in holding.
+
+343
+00:11:11,163 --> 00:11:12,319
+It's gonna be a while.
+
+344
+00:11:14,514 --> 00:11:15,506
+So...
+
+345
+00:11:17,018 --> 00:11:18,652
+- what they got you in here for?
+- Drugs.
+
+346
+00:11:18,688 --> 00:11:21,455
+They want me to flip, but I'm no snitch.
+
+347
+00:11:21,491 --> 00:11:24,080
+I'd rather do the time. How about you?
+
+348
+00:11:24,116 --> 00:11:26,471
+I pushed a man, just to see him frown.
+
+349
+00:11:26,507 --> 00:11:27,940
+He is terrible.
+
+350
+00:11:28,147 --> 00:11:31,682
+Yeah, it's almost like
+casting a robotic old nerd
+
+351
+00:11:31,717 --> 00:11:32,960
+was a huge mistake.
+
+352
+00:11:32,996 --> 00:11:34,730
+Was it a mistake, Sarge?
+
+353
+00:11:34,954 --> 00:11:36,787
+Or was it a stroke of brilliance?
+
+354
+00:11:36,822 --> 00:11:38,422
+- What are you talking about?
+- Look, you're a good actor.
+
+355
+00:11:38,457 --> 00:11:40,374
+You could even be a great one.
+But you're too gentle.
+
+356
+00:11:40,410 --> 00:11:42,258
+Life hasn't kicked you around enough.
+
+357
+00:11:42,294 --> 00:11:43,527
+I mean, I grew up poor,
+
+358
+00:11:43,562 --> 00:11:45,195
+and my father was emotionally abusive.
+
+359
+00:11:45,230 --> 00:11:46,270
+It's not enough.
+
+360
+00:11:46,306 --> 00:11:47,864
+You needed to be rejected by me,
+
+361
+00:11:47,899 --> 00:11:50,000
+a man you admire so much.
+
+362
+00:11:50,035 --> 00:11:52,434
+What? So all this was
+just to make me mad?
+
+363
+00:11:52,470 --> 00:11:54,972
+I need you to feel
+the anger and resentment
+
+364
+00:11:55,008 --> 00:11:59,147
+that Tyrone McCallister feels
+every single day of his life.
+
+365
+00:11:59,183 --> 00:12:00,806
+Who's Tyrone McCallister?
+
+366
+00:12:01,310 --> 00:12:02,321
+You are.
+
+367
+00:12:02,920 --> 00:12:05,721
+That's the part I wrote
+for you all along.
+
+368
+00:12:05,757 --> 00:12:07,269
+This is so stupid, Boyle.
+
+369
+00:12:07,305 --> 00:12:08,538
+You can't manipulate somebody like this
+
+370
+00:12:08,574 --> 00:12:09,906
+and then expect them to get on board.
+
+371
+00:12:09,942 --> 00:12:10,942
+Right, Sarge?
+
+372
+00:12:10,978 --> 00:12:12,020
+Sarge?
+
+373
+00:12:13,414 --> 00:12:14,927
+My name's Tyrone.
+
+374
+00:12:16,053 --> 00:12:17,352
+Tyrone McGallagher.
+
+375
+00:12:17,388 --> 00:12:19,265
+- McCallister.
+- McCallister.
+
+376
+00:12:19,763 --> 00:12:21,497
+So I checked up on David's case file.
+
+377
+00:12:21,532 --> 00:12:22,999
+He passed his drug test.
+
+378
+00:12:23,034 --> 00:12:25,134
+Apparently he has the cleanest
+blood they've ever seen.
+
+379
+00:12:25,169 --> 00:12:26,735
+I knew this was all too good to be true.
+
+380
+00:12:26,770 --> 00:12:28,371
+Now David's gonna clear his name
+
+381
+00:12:28,406 --> 00:12:30,840
+and singlehandedly take down
+drug dealers and dirty cops
+
+382
+00:12:30,875 --> 00:12:32,342
+and get another medal from the governor.
+
+383
+00:12:32,377 --> 00:12:34,243
+It sounds pretty dangerous.
+Maybe we should help him.
+
+384
+00:12:34,278 --> 00:12:35,811
+Pretty sure he can
+handle this on his own.
+
+385
+00:12:35,846 --> 00:12:37,169
+That's never been a problem for him.
+
+386
+00:12:37,205 --> 00:12:38,285
+All right, look, Ames.
+
+387
+00:12:39,647 --> 00:12:41,114
+I never had a brother,
+
+388
+00:12:41,150 --> 00:12:42,551
+but I know four guys who did,
+
+389
+00:12:42,586 --> 00:12:44,819
+and they would have fights
+and squabbles,
+
+390
+00:12:44,854 --> 00:12:47,943
+but in the end, they always
+had each other's shells.
+
+391
+00:12:48,358 --> 00:12:49,825
+Are you talking about the Ninja Turtles?
+
+392
+00:12:49,861 --> 00:12:50,933
+Of course I'm talking about
+
+393
+00:12:50,969 --> 00:12:52,060
+- the Ninja Turtles!
+- Ugh.
+
+394
+00:12:52,095 --> 00:12:53,362
+Look, if something happens
+to your brother,
+
+395
+00:12:53,397 --> 00:12:54,585
+you are gonna regret it,
+
+396
+00:12:54,621 --> 00:12:56,563
+just like Raph regretted it
+when he abandoned Leo
+
+397
+00:12:56,599 --> 00:12:57,665
+in the Technodrome with Krang.
+
+398
+00:12:57,700 --> 00:12:58,867
+I don't know what that means.
+
+399
+00:12:58,902 --> 00:13:00,435
+Well, that's on you. It's a classic.
+
+400
+00:13:00,470 --> 00:13:01,870
+The point is, if your brother gets hurt
+
+401
+00:13:01,905 --> 00:13:03,594
+and you don't get his back now,
+
+402
+00:13:03,703 --> 00:13:05,336
+it's gonna haunt you
+for the rest of your life.
+
+403
+00:13:05,575 --> 00:13:07,209
+You're right.
+
+404
+00:13:07,244 --> 00:13:08,877
+- Obviously you're right.
+- Thank you.
+
+405
+00:13:08,912 --> 00:13:10,278
+If David gets killed
+by the Brazilian mafia,
+
+406
+00:13:10,313 --> 00:13:12,180
+my parents' mantel
+is gonna become, like,
+
+407
+00:13:12,215 --> 00:13:13,882
+- a permanent shrine to him.
+- No, that's not what I meant.
+
+408
+00:13:13,917 --> 00:13:15,117
+Oh, the thought of it
+makes me want to puke.
+
+409
+00:13:15,152 --> 00:13:16,394
+You've learned the wrong lesson.
+
+410
+00:13:16,430 --> 00:13:17,918
+Come on, let's go help the bastard.
+
+411
+00:13:17,954 --> 00:13:19,054
+Don't love how we got here,
+
+412
+00:13:19,089 --> 00:13:20,389
+but we're going where I want.
+
+413
+00:13:22,102 --> 00:13:23,204
+I'm glad you guys are here.
+
+414
+00:13:23,240 --> 00:13:24,873
+So this place is run
+by the Brazilian mob.
+
+415
+00:13:24,909 --> 00:13:27,174
+My CI tells me there's a ledger
+with all the cops on payroll
+
+416
+00:13:27,210 --> 00:13:28,326
+hidden in here somewhere.
+
+417
+00:13:28,362 --> 00:13:29,428
+I'm guessing it's in that room
+
+418
+00:13:29,463 --> 00:13:30,690
+surrounded by armed guards.
+
+419
+00:13:30,726 --> 00:13:31,758
+Those are guards?
+
+420
+00:13:31,794 --> 00:13:32,791
+I thought they were models.
+
+421
+00:13:32,827 --> 00:13:34,021
+We need a plan to get past them.
+
+422
+00:13:34,169 --> 00:13:36,021
+So here's what I'm thinking.
+I speak a little Portuguese
+
+423
+00:13:36,057 --> 00:13:38,190
+from that time I opened
+a school in the favelas of Rio.
+
+424
+00:13:38,226 --> 00:13:39,191
+- Ugh, barf.
+- What?
+
+425
+00:13:39,227 --> 00:13:40,220
+I said barf.
+
+426
+00:13:40,256 --> 00:13:41,689
+I can't deal with your bragging anymore.
+
+427
+00:13:41,724 --> 00:13:42,857
+How is that bragging?
+
+428
+00:13:42,892 --> 00:13:44,425
+I said I speak a little Portuguese
+
+429
+00:13:44,460 --> 00:13:46,027
+when I'm actually fluent.
+
+430
+00:13:46,062 --> 00:13:47,595
+Ugh, shut up!
+
+431
+00:13:47,630 --> 00:13:49,764
+Look, if you're so angry
+with me, why are you even here?
+
+432
+00:13:49,799 --> 00:13:51,565
+Because Jake convinced me if you die,
+
+433
+00:13:51,600 --> 00:13:53,564
+I'd never hear the end of it
+from Mom and Dad.
+
+434
+00:13:53,600 --> 00:13:55,200
+That's not exactly how I phrased it.
+
+435
+00:13:55,236 --> 00:13:56,569
+Look, I get it. You're jealous.
+
+436
+00:13:56,605 --> 00:13:59,040
+I'd be jealous too
+if someone was better than me
+
+437
+00:13:59,075 --> 00:14:00,374
+at everything their whole life.
+
+438
+00:14:00,409 --> 00:14:02,143
+- Oh, no.
+- Not everything.
+
+439
+00:14:02,178 --> 00:14:04,244
+- I have more allergies than you.
+- Not the best brag.
+
+440
+00:14:04,279 --> 00:14:05,913
+I have so many allergies,
+I just found out
+
+441
+00:14:05,948 --> 00:14:08,015
+- I'm allergic to chia seeds.
+- But apparently effective.
+
+442
+00:14:08,050 --> 00:14:10,417
+I'm allergic to chia and acai berries.
+
+443
+00:14:10,452 --> 00:14:12,586
+Yeah? My throat gets scratchy
+when I eat stone fruit.
+
+444
+00:14:12,621 --> 00:14:14,923
+Oh, yeah? I'm also
+a better dancer than you.
+
+445
+00:14:16,257 --> 00:14:18,659
+Ames, you have badly
+misjudged your own abilities.
+
+446
+00:14:18,694 --> 00:14:20,116
+You think you're better than me?
+
+447
+00:14:21,362 --> 00:14:22,366
+Oh, damn.
+
+448
+00:14:22,864 --> 00:14:24,050
+She's got a shot.
+
+449
+00:14:24,230 --> 00:14:25,230
+_
+
+450
+00:14:25,266 --> 00:14:27,267
+What, afraid to use your forearms?
+
+451
+00:14:27,302 --> 00:14:28,401
+Pretty good.
+
+452
+00:14:28,436 --> 00:14:30,170
+You're not using enough elbow!
+
+453
+00:14:30,205 --> 00:14:32,673
+Guys, those aren't the parts
+people feature when they dance.
+
+454
+00:14:32,708 --> 00:14:34,675
+Now can we please find a way
+to distract those guards?
+
+455
+00:14:34,710 --> 00:14:37,040
+Don't worry, Jake, 'cause
+I'm about to end this thing.
+
+456
+00:14:37,076 --> 00:14:38,232
+Death drop!
+
+457
+00:14:39,080 --> 00:14:40,713
+Ow!
+
+458
+00:14:40,748 --> 00:14:41,714
+Ow, ow, ow!
+
+459
+00:14:41,750 --> 00:14:43,683
+- Oh, that looked really bad.
+- Are you okay?
+
+460
+00:14:43,718 --> 00:14:45,517
+Oh, look, the guards
+are leaving their post.
+
+461
+00:14:45,552 --> 00:14:46,518
+Looks like they're
+coming here to help you.
+
+462
+00:14:46,553 --> 00:14:47,787
+Jake, you should go now.
+
+463
+00:14:47,822 --> 00:14:49,855
+- Are you sure?
+- Yes, I'm "fone."
+
+464
+00:14:49,890 --> 00:14:51,290
+Oh, well, as long as you're "fone."
+
+465
+00:14:51,325 --> 00:14:53,025
+- Jake, go.
+- All right, fine.
+
+466
+00:14:55,046 --> 00:14:56,459
+<i>Believe me, they're perfect.</i>
+
+467
+00:14:56,495 --> 00:14:58,130
+They're about 5 1/2 pounds each,
+
+468
+00:14:58,165 --> 00:15:00,650
+and they look so good smushed together.
+
+469
+00:15:01,300 --> 00:15:02,433
+Or dangling.
+
+470
+00:15:03,771 --> 00:15:06,506
+Get off me, man.
+
+471
+00:15:06,656 --> 00:15:07,722
+- Hey.
+- Hey.
+
+472
+00:15:07,859 --> 00:15:09,726
+- Hey.
+- Cops, man.
+
+473
+00:15:09,761 --> 00:15:11,013
+- Mm-hmm.
+- Word.
+
+474
+00:15:11,362 --> 00:15:13,295
+McCallister, your lawyer's here.
+
+475
+00:15:13,330 --> 00:15:14,830
+- He wants to talk to you.
+- Already?
+
+476
+00:15:15,134 --> 00:15:17,366
+What the hell, man?
+I was just getting started.
+
+477
+00:15:17,401 --> 00:15:18,800
+And yet it felt like forever.
+
+478
+00:15:18,835 --> 00:15:22,203
+You were playing at Alfonso,
+not with Alfonso.
+
+479
+00:15:22,238 --> 00:15:23,957
+What are you doing right now, Sarge?
+
+480
+00:15:24,274 --> 00:15:25,874
+- Listening to you?
+- Yes, listening.
+
+481
+00:15:25,909 --> 00:15:27,909
+What humans do 95% of the time
+
+482
+00:15:27,944 --> 00:15:29,911
+and Tyrone does, apparently,
+none of the time.
+
+483
+00:15:29,946 --> 00:15:32,681
+I want you to go back
+in there and listen.
+
+484
+00:15:32,716 --> 00:15:35,096
+- Can you do that for me?
+- Yeah, okay, jeez.
+
+485
+00:15:35,132 --> 00:15:37,419
+I mean, you know, look, take
+the note about Tyrone or don't.
+
+486
+00:15:37,454 --> 00:15:40,021
+What do I know? But also, I created him.
+
+487
+00:15:41,213 --> 00:15:42,212
+Hey.
+
+488
+00:15:48,053 --> 00:15:50,265
+McCallister, your lawyer
+has more questions for you.
+
+489
+00:15:50,300 --> 00:15:51,677
+- What?
+- Why were you doing that?
+
+490
+00:15:51,713 --> 00:15:52,901
+You said I should listen!
+
+491
+00:15:52,936 --> 00:15:55,436
+Well, listening doesn't
+always mean being quiet.
+
+492
+00:15:55,521 --> 00:15:57,155
+Sometimes, the only way to listen
+
+493
+00:15:57,190 --> 00:15:58,589
+is to say something.
+
+494
+00:15:58,624 --> 00:16:00,640
+I'm listening to you right now.
+
+495
+00:16:00,676 --> 00:16:03,144
+Do you see how I listen?
+This is me listening.
+
+496
+00:16:03,179 --> 00:16:04,645
+You're pissing me off, Boyle!
+
+497
+00:16:04,680 --> 00:16:06,780
+Ah, and he's back!
+Hold on to that aggression.
+
+498
+00:16:06,815 --> 00:16:08,082
+Yeah, go! Go, go, go!
+
+499
+00:16:10,253 --> 00:16:11,590
+What are you looking at?
+
+500
+00:16:12,188 --> 00:16:13,333
+McCallister.
+
+501
+00:16:14,123 --> 00:16:15,823
+Terry, Terry, Terry.
+
+502
+00:16:15,858 --> 00:16:17,658
+I need you to help me see
+what I'm not seeing.
+
+503
+00:16:17,693 --> 00:16:18,826
+Why can't you do this?
+
+504
+00:16:18,861 --> 00:16:20,761
+You're giving me too many notes.
+
+505
+00:16:20,796 --> 00:16:23,410
+Okay, well, then I can boil
+it down for you into one note:
+
+506
+00:16:23,799 --> 00:16:25,466
+Tyrone is an ocean.
+
+507
+00:16:25,501 --> 00:16:27,067
+I don't know what that means.
+
+508
+00:16:27,102 --> 00:16:28,836
+It means I want you
+to be tough but vulnerable,
+
+509
+00:16:28,871 --> 00:16:31,005
+brave but scared,
+jittery but perfectly still.
+
+510
+00:16:31,040 --> 00:16:33,054
+Also, pace it up a little.
+Come on, buddy, you got this.
+
+511
+00:16:33,508 --> 00:16:35,408
+Man, these stupid cops
+won't leave me alone.
+
+512
+00:16:35,443 --> 00:16:37,071
+What the hell? They think I'm a snitch?
+
+513
+00:16:37,252 --> 00:16:38,746
+- Not me.
+- I hear that.
+
+514
+00:16:38,781 --> 00:16:40,180
+McCallister, I need to talk to you.
+
+515
+00:16:40,215 --> 00:16:41,281
+- No!
+- Excuse me?
+
+516
+00:16:41,316 --> 00:16:42,516
+I don't want any more notes.
+
+517
+00:16:42,551 --> 00:16:43,951
+I've gone undercover before.
+
+518
+00:16:43,986 --> 00:16:45,563
+Now just back off and let me do this!
+
+519
+00:16:47,890 --> 00:16:49,129
+Uh-oh, Alfonso,
+
+520
+00:16:49,165 --> 00:16:51,692
+seems as though we got a pig
+in our midst.
+
+521
+00:16:52,127 --> 00:16:53,761
+Looks like we can only trust each other.
+
+522
+00:16:53,796 --> 00:16:55,863
+Come on, man,
+you're obviously a cop too.
+
+523
+00:16:55,898 --> 00:16:57,758
+You keep talking
+about how nefarious you are.
+
+524
+00:16:58,233 --> 00:16:59,293
+<i>Jake, let us in!</i>
+
+525
+00:16:59,802 --> 00:17:01,268
+I think she's gonna be okay,
+
+526
+00:17:01,303 --> 00:17:02,870
+but she's probably got
+a low-grade concussion.
+
+527
+00:17:02,905 --> 00:17:05,038
+I wish you hadn't tried
+to do a death drop.
+
+528
+00:17:05,073 --> 00:17:07,607
+The ladies on "Drag Race"
+make it look so easy.
+
+529
+00:17:07,642 --> 00:17:09,108
+I know, you don't get
+that reference because
+
+530
+00:17:09,143 --> 00:17:11,010
+- you don't have a television.
+- Why?
+
+531
+00:17:11,045 --> 00:17:13,313
+Amy, I'm sorry for getting
+so competitive back there.
+
+532
+00:17:13,348 --> 00:17:15,282
+You guys are helping me out,
+and I should just be grateful.
+
+533
+00:17:15,317 --> 00:17:17,717
+Of course you're being nice
+to me when I'm being a monster.
+
+534
+00:17:17,752 --> 00:17:19,386
+Well, you know what, Mr. Perfect?
+
+535
+00:17:19,421 --> 00:17:20,720
+I'm gonna find that ledger,
+
+536
+00:17:20,755 --> 00:17:22,055
+and I'm gonna save your stupid butt.
+
+537
+00:17:22,090 --> 00:17:24,558
+- That would be so great.
+- Please stop.
+
+538
+00:17:24,593 --> 00:17:26,724
+- Maybe there's a hidden panel somewhere?
+- It's not in the desk.
+
+539
+00:17:26,760 --> 00:17:28,126
+I bet it's in this old safe.
+
+540
+00:17:28,162 --> 00:17:29,562
+That seems like a lot of work to open
+
+541
+00:17:29,597 --> 00:17:30,963
+every time you have to pay a bribe.
+
+542
+00:17:30,998 --> 00:17:33,135
+I would keep it in this filing cabinet.
+
+543
+00:17:35,770 --> 00:17:37,837
+I found it!
+
+544
+00:17:37,872 --> 00:17:39,772
+I beat the golden boy!
+I'm the golden girl!
+
+545
+00:17:39,807 --> 00:17:41,139
+<i>Hey, open up!</i>
+
+546
+00:17:41,174 --> 00:17:42,574
+<i>- Who's in there?</i>
+- Okay, everybody out.
+
+547
+00:17:42,609 --> 00:17:43,713
+Go! Go, go, go!
+
+548
+00:17:46,278 --> 00:17:47,644
+Hey, get off me!
+
+549
+00:17:47,680 --> 00:17:49,947
+My God, you're even more
+stunning up close.
+
+550
+00:17:52,974 --> 00:17:54,452
+I called for backup,
+but it could take ten minutes.
+
+551
+00:17:54,488 --> 00:17:56,228
+- Should we storm the place?
+- Too late.
+
+552
+00:17:56,264 --> 00:17:57,397
+Look, they're bringing Jake out.
+
+553
+00:17:57,433 --> 00:17:59,972
+I told you, I was in the
+office because I work there,
+
+554
+00:18:00,008 --> 00:18:01,314
+and we've actually met a bunch of times,
+
+555
+00:18:01,350 --> 00:18:03,052
+and it's crazy you don't remember me!
+
+556
+00:18:03,088 --> 00:18:04,445
+What should we do? If they get away,
+
+557
+00:18:04,481 --> 00:18:05,845
+we'll never be able to track them.
+
+558
+00:18:05,881 --> 00:18:07,514
+Shoot out the tires.
+
+559
+00:18:07,549 --> 00:18:08,682
+You're a way better shot than me.
+
+560
+00:18:08,717 --> 00:18:10,217
+- You should do it.
+- Are you crazy?
+
+561
+00:18:10,252 --> 00:18:11,885
+- You're the golden girl.
+- David, take the shot.
+
+562
+00:18:11,920 --> 00:18:13,120
+I just don't want you to feel
+bad about yourself...
+
+563
+00:18:13,155 --> 00:18:14,255
+Take the shot!
+
+564
+00:18:18,227 --> 00:18:20,530
+You're under arrest, you beautiful man.
+
+565
+00:18:20,997 --> 00:18:22,416
+Cuff this son of a bitch.
+
+566
+00:18:23,399 --> 00:18:25,799
+Oh, my God, you also smell so good.
+
+567
+00:18:25,834 --> 00:18:27,581
+Brazil!
+
+568
+00:18:28,503 --> 00:18:30,203
+All right, so first things first,
+
+569
+00:18:30,238 --> 00:18:31,804
+I think I owe you both something,
+
+570
+00:18:31,839 --> 00:18:32,889
+and it's this.
+
+571
+00:18:34,809 --> 00:18:36,576
+Stop clapping!
+There's nothing to clap about.
+
+572
+00:18:36,611 --> 00:18:38,979
+Look, I know you're upset,
+but everything went great.
+
+573
+00:18:39,014 --> 00:18:40,880
+Great? You ruined this mission.
+
+574
+00:18:40,915 --> 00:18:42,382
+Yeah, we might have gotten him to talk
+
+575
+00:18:42,417 --> 00:18:44,117
+if you didn't give me notes
+every two seconds.
+
+576
+00:18:44,152 --> 00:18:46,752
+Guys, you performed exactly
+the way I expected you to.
+
+577
+00:18:46,787 --> 00:18:49,152
+It's just that you were both
+supporting characters.
+
+578
+00:18:49,188 --> 00:18:51,162
+Hey, Boyle, I did what you asked.
+
+579
+00:18:51,198 --> 00:18:52,392
+Alfonso told me everything.
+
+580
+00:18:52,427 --> 00:18:53,626
+Yes! I knew it would work.
+
+581
+00:18:53,661 --> 00:18:54,995
+What? What's going on?
+
+582
+00:18:55,030 --> 00:18:56,762
+You were never my real star, Sarge.
+
+583
+00:18:56,797 --> 00:18:58,298
+But I needed to create a scene
+
+584
+00:18:58,333 --> 00:19:00,666
+so that Alfonso would think
+that my mission had failed.
+
+585
+00:19:00,701 --> 00:19:02,334
+Then I could send in...
+
+586
+00:19:02,369 --> 00:19:05,570
+Ricki Sheetz, DJ by night,
+gun smuggler by later night.
+
+587
+00:19:05,605 --> 00:19:07,006
+Alfonso started telling me
+
+588
+00:19:07,041 --> 00:19:08,673
+about all the crazy crap
+you guys pulled in there.
+
+589
+00:19:08,708 --> 00:19:09,975
+He just couldn't stop talking
+
+590
+00:19:10,010 --> 00:19:11,676
+till he gave me the name
+of his supplier.
+
+591
+00:19:11,711 --> 00:19:14,013
+Rosa was my leading lady from the start.
+
+592
+00:19:14,048 --> 00:19:15,747
+- She's the only good actor here.
+- She is?
+
+593
+00:19:15,782 --> 00:19:17,116
+Yeah, you know nothing
+about my real life.
+
+594
+00:19:17,151 --> 00:19:19,337
+- I'm always acting.
+- Well done, Boyle.
+
+595
+00:19:19,733 --> 00:19:22,254
+You've executed this mission flawlessly.
+I'm impressed.
+
+596
+00:19:22,289 --> 00:19:24,689
+Wait, if you were gonna use
+Diaz the whole time,
+
+597
+00:19:24,724 --> 00:19:25,991
+why didn't you just tell us that?
+
+598
+00:19:26,026 --> 00:19:27,526
+Because you two would have given it away
+
+599
+00:19:27,561 --> 00:19:28,793
+with your terrible acting.
+
+600
+00:19:28,828 --> 00:19:30,129
+No offense, but I can read
+
+601
+00:19:30,164 --> 00:19:32,264
+every emotion you're
+feeling on your face.
+
+602
+00:19:32,299 --> 00:19:34,133
+- Can you read this one?
+- Actually, yes.
+
+603
+00:19:34,168 --> 00:19:36,367
+You're trying to be tough, but inside,
+
+604
+00:19:36,402 --> 00:19:38,821
+you're super impressed by what
+I've accomplished today.
+
+605
+00:19:40,239 --> 00:19:42,540
+Damn, you're right. You're good.
+
+606
+00:19:43,129 --> 00:19:45,543
+Thank you, everyone,
+for joining me again.
+
+607
+00:19:45,578 --> 00:19:47,178
+To David. You're my hero.
+
+608
+00:19:47,213 --> 00:19:49,313
+And to Amy. You saved my butt.
+
+609
+00:19:49,348 --> 00:19:51,201
+You're a great cop and a great sister.
+
+610
+00:19:51,750 --> 00:19:54,657
+Wow. That means a lot coming from you.
+
+611
+00:19:55,354 --> 00:19:56,887
+You've always been a role model for me.
+
+612
+00:19:56,922 --> 00:19:58,556
+He's everyone's role model.
+
+613
+00:19:58,591 --> 00:19:59,857
+That's why he's on the mantel.
+
+614
+00:20:01,594 --> 00:20:02,971
+I have to go to the bathroom.
+
+615
+00:20:05,898 --> 00:20:07,365
+Hey, are you okay?
+
+616
+00:20:07,400 --> 00:20:08,999
+Yeah, I just had to go
+to the bathroom, like I said.
+
+617
+00:20:09,034 --> 00:20:10,401
+Oh, great. I thought you went in there
+
+618
+00:20:10,436 --> 00:20:12,070
+to give yourself a pep talk
+in the mirror
+
+619
+00:20:12,105 --> 00:20:13,370
+like the girl
+from the deodorant commercial.
+
+620
+00:20:13,405 --> 00:20:14,905
+I don't know what you're referring to.
+
+621
+00:20:14,940 --> 00:20:16,040
+She wants the big promotion,
+
+622
+00:20:16,075 --> 00:20:17,407
+but there's just one problem.
+
+623
+00:20:17,442 --> 00:20:19,342
+She got skunk pit. We'll watch it later.
+
+624
+00:20:19,377 --> 00:20:20,978
+The point is, I came to comfort you.
+
+625
+00:20:21,013 --> 00:20:24,047
+Aw, thanks, but I actually
+feel really great.
+
+626
+00:20:24,082 --> 00:20:26,916
+I've spent my whole life trying
+to beat David at something,
+
+627
+00:20:26,951 --> 00:20:29,144
+but when you were in danger,
+
+628
+00:20:29,787 --> 00:20:31,282
+I just didn't care anymore.
+
+629
+00:20:31,956 --> 00:20:33,773
+All I wanted was for you to be okay.
+
+630
+00:20:34,459 --> 00:20:37,127
+I may never have the mantel,
+but it doesn't matter,
+
+631
+00:20:37,163 --> 00:20:38,363
+'cause I have you.
+
+632
+00:20:38,399 --> 00:20:39,698
+Well, I'm very proud of you,
+
+633
+00:20:39,931 --> 00:20:41,098
+and I also wish you had told me that
+
+634
+00:20:41,133 --> 00:20:42,432
+before you went to the bathroom,
+
+635
+00:20:42,467 --> 00:20:44,167
+because I really roasted
+your mom back there.
+
+636
+00:20:44,202 --> 00:20:46,536
+And another thing,
+you should appreciate Amy more,
+
+637
+00:20:46,571 --> 00:20:47,904
+because she's amazing.
+
+638
+00:20:47,939 --> 00:20:49,439
+And another thing,
+when you come to visit us,
+
+639
+00:20:49,474 --> 00:20:50,940
+you don't have to bring your own coffee.
+
+640
+00:20:50,975 --> 00:20:52,242
+Our coffee is fine.
+
+641
+00:20:52,277 --> 00:20:54,077
+And another thing, I know enough Spanish
+
+642
+00:20:54,112 --> 00:20:55,612
+to understand what <i>idiota</i> means!
+
+643
+00:20:55,647 --> 00:20:56,945
+And another thing!
+
+644
+00:20:56,980 --> 00:20:59,014
+When you say I have
+an "interesting nose,"
+
+645
+00:20:59,049 --> 00:21:00,867
+I know you mean big!
+
+646
+00:21:01,210 --> 00:21:02,427
+I got lost in it.
+
+647
+00:21:02,886 --> 00:21:04,853
+There were, like, 35 "another things."
+
+648
+00:21:04,888 --> 00:21:06,622
+- I'm so sorry.
+- It's okay.
+
+649
+00:21:06,657 --> 00:21:08,090
+You were defending my honor.
+
+650
+00:21:08,125 --> 00:21:09,625
+And I'm glad you said something.
+
+651
+00:21:09,660 --> 00:21:11,960
+So should I go back
+and apologize to your mom?
+
+652
+00:21:11,995 --> 00:21:13,229
+Oh, hell no.
+We're sneaking out the back.
+
+653
+00:21:13,264 --> 00:21:14,963
+Oh, thank God. She is terrifying.
+
+654
+00:21:14,998 --> 00:21:16,831
+See ya at Thanksgiving, Mrs. Santiago.
+
+655
+00:21:17,613 --> 00:21:21,613
+<font color="#741b47">Sync & corrections by </font><font color="#ead1dc">emeline-whovian</font>
+<font color="#741b47">www.addic7ed.com</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

@@ -24,7 +24,7 @@ fn.lerDiretorio(caminho)
         fn.removerElementosSeApenasNumero(),
         groupBy(el => el),
         mergeMap(grupo => grupo.pipe(toArray())),
-        map(palavras => ({elemento: palavras[0], qtde: palavras.length})),
+        map(palavras => ({ elemento: palavras[0], qtde: palavras.length })),
         toArray(),
         map(array => _.sortBy(array, el => -el.qtde))
     )
